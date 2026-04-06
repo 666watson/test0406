@@ -1,0 +1,15 @@
+# 蹇界暐缂栬緫鍣ㄧ浉鍏虫枃浠?.vscode/
+.idea/
+
+# 蹇界暐绯荤粺鏂囦欢
+Thumbs.db
+.DS_Store
+
+# 蹇界暐涓存椂鏂囦欢
+*.tmp
+*.temp
+
+# 蹇界暐鏃ュ織鏂囦欢
+*.log
+
+# 蹇界暐渚濊禆鏂囦欢澶?node_modules/
